@@ -18,7 +18,6 @@ exclude:
   - vendor/
   - README.md
   - LICENSE
-  - _private
   - _auto
 include:
   - _redirects
@@ -51,4 +50,3 @@ defaults:
       path: ""
     values:
       image: /logo.png
-EMPTYOBJECT: {}
